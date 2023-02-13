@@ -1,0 +1,57 @@
+{
+  "title": "GirlyWatch",
+  "description": "",
+  "artist": "Sinner",
+  "author": "Sinner",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1676327239",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mh1ok"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1676327294",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9ZmfTcn"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1676327300",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cwAGd"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1676327326",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wqREQGH"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1676327371",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hOZH8"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1676327376",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/aqdJBKB"
+      }
+    }
+  }
+}
